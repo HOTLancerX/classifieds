@@ -1,0 +1,17 @@
+{
+    "IndexPage": {
+      "title": "next-intl example",
+      "description": "Next.js ইন্টারন্যাশনালাইজেশন (i18n) উদাহরণে স্বাগতম! এই ডেমো অ্যাপ রাউটারের শক্তি প্রদর্শন করে এবং পরবর্তী-intl ব্যবহার করে কীভাবে বহুভাষিক বিষয়বস্তু নির্বিঘ্নে পরিচালনা করা যায়।"
+    },
+    "NotFoundPage": {
+      "title": "Page Not Found",
+      "description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+    },
+    "Navigation": {
+      "home": "Home"
+    },
+    "Footer": {
+      "copyright": "© 2024 Your App. All rights reserved."
+    }
+  }
+  
