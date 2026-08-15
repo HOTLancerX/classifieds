@@ -7,7 +7,7 @@ import DirectoryLayout1 from "./details/DirectoryLayout1";
 
 // ─── Plugin Metadata ─────────────────────────────────────────────────────────
 export const PLUGINS: PluginMeta = {
-    nx: "com.system.classifieds",
+    nx: "classifieds",
     name: "classifieds",
     version: "1.0.0",
     description: "Classifieds plugin with categories, locations, box designs, details layout, and attributes.",
